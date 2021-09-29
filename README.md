@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @crvnts, I'm a third year Computer Engineering (Software Opt.) student at Ryerson U.
+- My main interests are in software design, cpu and graphics drivers, and smart data security solutions!
+- I am looking to build up my project portfolio to demonstrate my proficiency in the software I want to work with, as well as show my knowledge with the basics. 
+- I am available to talk on LinkedIn at https://www.linkedin.com/in/thomas-cervantes-989ba41b5/
