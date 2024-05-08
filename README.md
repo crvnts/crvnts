@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crvnts, I'm a Toronto-based SWE co-op student at Toronto Metropolitan U, and a former Data and Applications Engineer at Mitsubishi Heavy Industries.
+- 👋 Hi, I’m @crvnts, I'm a Toronto-based SWE B.Eng Graduate at Toronto Metropolitan U, and a former Data and Applications Engineer at Mitsubishi Heavy Industries.
 - I am also a prev. Project Manager for the Faculty of Engineering and Architectural Science at Toronto Metropolitan U, and prev. Scrum Master for CPS714 managing a 10-developer Agile SWD team.
 - My main interests are in Agile Development practices, software project management, product ownership, software design, front-end/UI engineering, and cross-platform application development!
 - I am looking to build up my project portfolio to demonstrate my proficiency in the several different stacks, as well as solidify my tech stack knowledge in preparation to become an eloquent TPM.
