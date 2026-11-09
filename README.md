@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @crvnts, I'm a Toronto-based Computer Engineering B.Eng Graduate at Toronto Metropolitan U, and a former Data and Applications Engineer at Mitsubishi Heavy Industries.
-- I am also a prev. Project Manager for the Faculty of Engineering and Architectural Science at Toronto Metropolitan U, and prev. Scrum Master for CPS714 managing a 10-developer Agile SWD team.
-- My main interests are in Agile Development practices, software project management, product ownership, software design, front-end/UI engineering, and cross-platform application development!
-- I am looking to build up my project portfolio to demonstrate my proficiency in the several different stacks, as well as solidify my tech stack knowledge in preparation to become an eloquent TPM.
+- 👋 Hi, I’m @crvnts, a Senior Verticals & Performance Technical Analyst @ StackAdapt. 
+- I am also a prev. Project Manager for the Faculty of Engineering and Architectural Science at Toronto Metropolitan U, Data & Applications Engineer @ Mitsubishi and prev. Scrum Master for CPS714 managing a 10-developer Agile SWD team.
+- My main interests are in AI tooling and automation Agile Development practices, software project management, product ownership, software design, front-end/UI engineering, and cross-platform application development!
+- My current active repos are personal projects that I hope to all deploy in some time :)
 - Connect with me on LinkedIn at https://www.linkedin.com/in/thomascervantes/
