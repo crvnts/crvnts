@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @crvnts, a Senior Verticals & Performance Technical Analyst @ StackAdapt. 
 - I am also a prev. Project Manager for the Faculty of Engineering and Architectural Science at Toronto Metropolitan U, Data & Applications Engineer @ Mitsubishi and prev. Scrum Master for CPS714 managing a 10-developer Agile SWD team.
-- My main interests are in AI tooling and automation Agile Development practices, software project management, product ownership, software design, front-end/UI engineering, and cross-platform application development!
+- My main interests are in AI tooling and automation, Agile Development practices, software project management, product ownership, software design, front-end/UI engineering, and cross-platform application development!
 - My current active repos are personal projects that I hope to all deploy in some time :)
 - Connect with me on LinkedIn at https://www.linkedin.com/in/thomascervantes/
